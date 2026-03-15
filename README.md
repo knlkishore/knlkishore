@@ -14,10 +14,6 @@ currently transitioning into Data Analytics.
 - 🔗 [Supply Chain Optimization using GNNs](https://github.com/knlkishore/Efficient-Supply-Chain-Management-Using-GNNs)
 - 🔗 [Electricity Market Clearance Optimization](https://github.com/knlkishore/electricity-market-clearance-optimization)
 
-## 📚 Currently Learning
-- Advanced SQL for Data Analysis
-- Data Analysis with Pandas & Python
-- Statistics for Data Science
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-knlkishore-blue)](https://www.linkedin.com/in/knlkishore/)
