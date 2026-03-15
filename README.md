@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kunal Kishore 👋
 
-<!--
-**knlkishore/knlkishore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Analyst with an IIT Roorkee MBA and IISER Bhopal Mathematics background,
+currently transitioning into Data Analytics.
 
-Here are some ideas to get you started:
+📍 Bengaluru, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Skills
+- **Languages:** Python (Pandas, NumPy), SQL
+- **BI & Visualization:** Power BI (DAX), Excel (Power Query, Power Pivot, VBA)
+- **Other:** Linear Programming, Graph Neural Networks, Statistical Modeling
+
+## 📌 Featured Projects
+- 🔗 [Supply Chain Optimization using GNNs](https://github.com/knlkishore/Efficient-Supply-Chain-Management-Using-GNNs)
+- 🔗 [Electricity Market Clearance Optimization](https://github.com/knlkishore/electricity-market-clearance-optimization)
+
+## 📚 Currently Learning
+- Advanced SQL for Data Analysis
+- Data Analysis with Pandas & Python
+- Statistics for Data Science
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-knlkishore-blue)](https://www.linkedin.com/in/knlkishore/)
