@@ -1,5 +1,5 @@
 # Hi, I'm Kunal Kishore 👋
-
+ 
 Senior Analyst with an IIT Roorkee MBA and IISER Bhopal Mathematics background,
 currently transitioning into Data Analytics.
 
